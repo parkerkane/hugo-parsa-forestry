@@ -26,3 +26,7 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: gallery
+  type: image_gallery
+  config: {}
+  label: gallery
